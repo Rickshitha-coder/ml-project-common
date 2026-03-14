@@ -1,16 +1,16 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import pytesseract
+from PIL import Image
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
-# Page settings
 st.set_page_config(page_title="Fake Review Detector", page_icon="🛒", layout="wide")
 
-# Title
 st.title("🛒 E-Commerce Fake Review Detection System")
-st.write("Detect whether a product review is **Fake or Genuine** using Machine Learning.")
+st.write("Detect whether a product review is **Fake or Genuine**.")
 
 st.divider()
 
@@ -18,28 +18,26 @@ st.divider()
 st.sidebar.title("🧑 User Panel")
 st.sidebar.write("Review Authenticity Checker")
 
-st.sidebar.info("""
-Enter a product review and our ML model will analyze whether it is **Fake or Genuine**.
-""")
-
 # Load dataset
 data = pd.read_csv("fake_reviews_dataset_1000.csv")
 
 X = data["review_text"]
 y = data["label"]
 
-# Vectorizer
 vectorizer = TfidfVectorizer()
 X_vec = vectorizer.fit_transform(X)
 
-# Train model
 model = LogisticRegression()
 model.fit(X_vec, y)
 
-# Layout
 col1, col2 = st.columns([2,1])
 
+# -----------------------
+# Product Section
+# -----------------------
+
 with col1:
+
     st.subheader("📦 Product")
 
     st.image(
@@ -53,13 +51,18 @@ with col1:
     rating = st.slider("⭐ Product Rating",1,5,4)
 
     review = st.text_area(
-        "Write your review",
-        placeholder="Example: This product quality is amazing and worth the money"
+        "Write a review",
+        placeholder="Example: This product is amazing and worth the money"
     )
 
     predict_button = st.button("🔍 Analyze Review")
 
+# -----------------------
+# Dataset Insights
+# -----------------------
+
 with col2:
+
     st.subheader("📊 Dataset Insights")
 
     total = len(data)
@@ -70,7 +73,6 @@ with col2:
     st.metric("Fake Reviews", fake)
     st.metric("Genuine Reviews", genuine)
 
-    # Chart
     fig, ax = plt.subplots()
     ax.bar(["Fake","Genuine"],[fake,genuine])
     ax.set_title("Dataset Distribution")
@@ -78,37 +80,76 @@ with col2:
 
 st.divider()
 
+# -----------------------
+# Screenshot Upload
+# -----------------------
+
+st.subheader("📷 Upload Review Screenshot")
+
+uploaded_file = st.file_uploader("Upload image of a review", type=["png","jpg","jpeg"])
+
+if uploaded_file:
+
+    image = Image.open(uploaded_file)
+    st.image(image, caption="Uploaded Screenshot")
+
+    extracted_text = pytesseract.image_to_string(image)
+
+    st.write("Extracted Review Text:")
+    st.info(extracted_text)
+
+    review = extracted_text
+
+# -----------------------
 # Prediction
-if predict_button:
+# -----------------------
 
-    if review.strip() == "":
-        st.warning("⚠ Please enter a review.")
+if predict_button and review:
+
+    review_vec = vectorizer.transform([review])
+
+    prediction = model.predict(review_vec)
+    prob = model.predict_proba(review_vec)
+
+    st.subheader("🧠 Prediction Result")
+
+    if prediction[0] == "fake":
+        st.error("⚠ This review appears FAKE")
+        st.write("Fake Probability:", round(prob[0][0]*100,2),"%")
     else:
+        st.success("✅ This review appears GENUINE")
+        st.write("Genuine Probability:", round(prob[0][1]*100,2),"%")
 
-        review_vec = vectorizer.transform([review])
-        prediction = model.predict(review_vec)
+    # -----------------------
+    # AI Chatbot Explanation
+    # -----------------------
 
-        prob = model.predict_proba(review_vec)
+    st.subheader("🤖 AI Explanation")
 
-        st.subheader("🧠 Model Prediction")
+    if prediction[0] == "fake":
+        st.write("""
+        This review may be fake because:
 
-        if prediction[0] == "fake":
-            st.error("⚠ This review appears **FAKE**")
-            st.write("Fake Probability:", round(prob[0][0]*100,2),"%")
+        • It contains promotional language  
+        • Very short or repetitive text  
+        • Unusual review patterns  
+        """)
+    else:
+        st.write("""
+        This review appears genuine because:
 
-        else:
-            st.success("✅ This review appears **GENUINE**")
-            st.write("Genuine Probability:", round(prob[0][1]*100,2),"%")
+        • Natural sentence structure  
+        • Balanced opinion  
+        • Common user language  
+        """)
 
 st.divider()
 
 st.markdown("""
-### 📌 About the Project
-This application detects **fake product reviews** using:
+### 📌 About
+This system detects fake product reviews using **Machine Learning and NLP**.
 
-- **Machine Learning**
-- **TF-IDF Text Vectorization**
-- **Logistic Regression**
-
-Developed using **Python, Streamlit, and Scikit-Learn**.
+Algorithm used:
+- TF-IDF Vectorization
+- Logistic Regression
 """)
