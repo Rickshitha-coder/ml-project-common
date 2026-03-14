@@ -1,0 +1,1001 @@
+review_text,rating,review_length,user_review_count,label
+Nice design and performance is good,3,35,30,genuine
+Quality is good and durable,3,27,37,genuine
+Very useful and easy to use,3,27,33,genuine
+Nice design and performance is good,5,35,43,genuine
+Perfect product best online,4,27,3,fake
+Quality is good and durable,3,27,22,genuine
+Good value for money,5,20,10,genuine
+Product is reliable and worth the money,4,39,39,genuine
+Amazing product must buy today,4,30,3,fake
+Highly recommended buy immediately,5,34,2,fake
+Decent product for the price,5,28,26,genuine
+Perfect product best online,4,27,3,fake
+Incredible item must buy right now,4,34,1,fake
+Best deal online hurry buy,5,26,1,fake
+Best product ever buy now,5,25,1,fake
+Best product ever buy now,4,25,1,fake
+Super product buy today,5,23,1,fake
+Amazing product must buy today,4,30,2,fake
+Amazing product must buy today,4,30,2,fake
+Best item grab it quickly,4,25,1,fake
+Best item grab it quickly,5,25,1,fake
+Top quality product buy now,5,27,3,fake
+Best deal online hurry buy,4,26,2,fake
+Nice design and performance is good,3,35,42,genuine
+Good quality product and works as expected,3,42,33,genuine
+Limited offer buy immediately,4,29,3,fake
+Very useful and easy to use,4,27,9,genuine
+Good quality product and works as expected,4,42,42,genuine
+Very useful and easy to use,4,27,15,genuine
+Works perfectly and build quality is good,4,41,50,genuine
+Works perfectly and build quality is good,5,41,27,genuine
+Decent product for the price,3,28,5,genuine
+Limited offer buy immediately,4,29,3,fake
+Product is reliable and worth the money,4,39,28,genuine
+Limited offer buy immediately,5,29,1,fake
+Quality is good and durable,5,27,38,genuine
+Limited offer buy immediately,5,29,2,fake
+Perfect product best online,4,27,3,fake
+Product is reliable and worth the money,3,39,17,genuine
+Best deal online hurry buy,4,26,1,fake
+Super product buy today,4,23,1,fake
+Quality is good and durable,5,27,18,genuine
+Good quality product and works as expected,5,42,35,genuine
+Limited offer buy immediately,4,29,2,fake
+Decent product for the price,5,28,11,genuine
+Quality is good and durable,5,27,22,genuine
+Product is reliable and worth the money,5,39,25,genuine
+Decent product for the price,3,28,39,genuine
+Super product buy today,4,23,3,fake
+Very useful and easy to use,3,27,11,genuine
+Amazing product must buy today,5,30,1,fake
+Best deal online hurry buy,4,26,2,fake
+Good value for money,5,20,35,genuine
+Limited offer buy immediately,5,29,1,fake
+Limited offer buy immediately,5,29,2,fake
+Quality is good and durable,3,27,31,genuine
+Highly recommended buy immediately,5,34,3,fake
+Decent product for the price,5,28,47,genuine
+Highly recommended buy immediately,4,34,2,fake
+Product is reliable and worth the money,4,39,24,genuine
+Good quality product and works as expected,5,42,37,genuine
+Decent product for the price,4,28,47,genuine
+Good quality product and works as expected,3,42,32,genuine
+Highly recommended buy immediately,5,34,3,fake
+Product is reliable and worth the money,5,39,23,genuine
+Amazing product must buy today,5,30,3,fake
+Best deal online hurry buy,5,26,3,fake
+Perfect product best online,5,27,2,fake
+Top quality product buy now,4,27,3,fake
+Satisfied with the purchase and delivery was fast,4,49,43,genuine
+Very useful and easy to use,3,27,46,genuine
+Best product ever buy now,5,25,1,fake
+Works perfectly and build quality is good,5,41,33,genuine
+Amazing product must buy today,4,30,2,fake
+Product is reliable and worth the money,3,39,8,genuine
+Perfect product best online,5,27,3,fake
+Highly recommended buy immediately,4,34,1,fake
+Top quality product buy now,4,27,1,fake
+Incredible item must buy right now,5,34,1,fake
+Quality is good and durable,4,27,12,genuine
+Happy with the product overall,3,30,11,genuine
+Product is reliable and worth the money,5,39,14,genuine
+Quality is good and durable,5,27,49,genuine
+Good value for money,4,20,42,genuine
+Best deal online hurry buy,5,26,1,fake
+Product is reliable and worth the money,3,39,38,genuine
+Good value for money,3,20,48,genuine
+Quality is good and durable,3,27,31,genuine
+Incredible item must buy right now,5,34,3,fake
+Perfect product best online,5,27,3,fake
+Perfect product best online,4,27,3,fake
+Best item grab it quickly,5,25,2,fake
+Highly recommended buy immediately,4,34,1,fake
+Good value for money,4,20,35,genuine
+Amazing product must buy today,4,30,2,fake
+Best deal online hurry buy,5,26,3,fake
+Nice design and performance is good,4,35,5,genuine
+Incredible item must buy right now,5,34,1,fake
+Limited offer buy immediately,4,29,1,fake
+Good value for money,4,20,36,genuine
+Best deal online hurry buy,5,26,2,fake
+Best product ever buy now,5,25,3,fake
+Good quality product and works as expected,4,42,29,genuine
+Quality is good and durable,5,27,31,genuine
+Amazing product must buy today,5,30,2,fake
+Highly recommended buy immediately,4,34,3,fake
+Nice design and performance is good,5,35,35,genuine
+Limited offer buy immediately,4,29,3,fake
+Decent product for the price,5,28,46,genuine
+Good quality product and works as expected,4,42,19,genuine
+Very useful and easy to use,5,27,8,genuine
+Quality is good and durable,5,27,24,genuine
+Incredible item must buy right now,5,34,1,fake
+Best product ever buy now,5,25,1,fake
+Works perfectly and build quality is good,4,41,5,genuine
+Good value for money,3,20,21,genuine
+Works perfectly and build quality is good,4,41,14,genuine
+Very useful and easy to use,3,27,40,genuine
+Satisfied with the purchase and delivery was fast,3,49,40,genuine
+Highly recommended buy immediately,5,34,1,fake
+Top quality product buy now,5,27,3,fake
+Good value for money,3,20,10,genuine
+Highly recommended buy immediately,5,34,2,fake
+Best deal online hurry buy,5,26,3,fake
+Works perfectly and build quality is good,5,41,31,genuine
+Very useful and easy to use,3,27,21,genuine
+Decent product for the price,4,28,39,genuine
+Highly recommended buy immediately,4,34,2,fake
+Works perfectly and build quality is good,3,41,26,genuine
+Best product ever buy now,4,25,2,fake
+Good value for money,3,20,46,genuine
+Highly recommended buy immediately,4,34,2,fake
+Good value for money,4,20,18,genuine
+Incredible item must buy right now,4,34,1,fake
+Decent product for the price,5,28,20,genuine
+Good value for money,3,20,39,genuine
+Incredible item must buy right now,4,34,3,fake
+Satisfied with the purchase and delivery was fast,5,49,39,genuine
+Works perfectly and build quality is good,4,41,41,genuine
+Best deal online hurry buy,4,26,2,fake
+Happy with the product overall,4,30,7,genuine
+Satisfied with the purchase and delivery was fast,5,49,48,genuine
+Best deal online hurry buy,5,26,3,fake
+Best item grab it quickly,4,25,3,fake
+Good quality product and works as expected,4,42,12,genuine
+Good value for money,5,20,5,genuine
+Good value for money,5,20,11,genuine
+Good quality product and works as expected,4,42,19,genuine
+Amazing product must buy today,4,30,3,fake
+Nice design and performance is good,3,35,16,genuine
+Top quality product buy now,4,27,3,fake
+Product is reliable and worth the money,3,39,25,genuine
+Highly recommended buy immediately,4,34,2,fake
+Best deal online hurry buy,5,26,1,fake
+Good value for money,3,20,13,genuine
+Perfect product best online,5,27,2,fake
+Super product buy today,5,23,3,fake
+Good value for money,5,20,21,genuine
+Happy with the product overall,3,30,42,genuine
+Incredible item must buy right now,5,34,3,fake
+Highly recommended buy immediately,5,34,2,fake
+Limited offer buy immediately,4,29,1,fake
+Best deal online hurry buy,5,26,2,fake
+Best deal online hurry buy,5,26,3,fake
+Product is reliable and worth the money,5,39,33,genuine
+Best deal online hurry buy,5,26,3,fake
+Very useful and easy to use,4,27,33,genuine
+Good value for money,5,20,16,genuine
+Incredible item must buy right now,5,34,1,fake
+Good value for money,3,20,34,genuine
+Incredible item must buy right now,5,34,2,fake
+Perfect product best online,5,27,1,fake
+Amazing product must buy today,4,30,3,fake
+Product is reliable and worth the money,3,39,19,genuine
+Highly recommended buy immediately,5,34,3,fake
+Satisfied with the purchase and delivery was fast,3,49,7,genuine
+Highly recommended buy immediately,4,34,3,fake
+Quality is good and durable,5,27,35,genuine
+Quality is good and durable,5,27,21,genuine
+Best product ever buy now,5,25,2,fake
+Best item grab it quickly,4,25,2,fake
+Incredible item must buy right now,4,34,1,fake
+Amazing product must buy today,4,30,3,fake
+Quality is good and durable,3,27,11,genuine
+Happy with the product overall,3,30,10,genuine
+Incredible item must buy right now,5,34,2,fake
+Happy with the product overall,4,30,50,genuine
+Best item grab it quickly,5,25,2,fake
+Incredible item must buy right now,5,34,1,fake
+Highly recommended buy immediately,4,34,1,fake
+Happy with the product overall,4,30,9,genuine
+Amazing product must buy today,5,30,2,fake
+Best deal online hurry buy,5,26,1,fake
+Amazing product must buy today,5,30,1,fake
+Works perfectly and build quality is good,3,41,21,genuine
+Best deal online hurry buy,4,26,2,fake
+Quality is good and durable,5,27,42,genuine
+Highly recommended buy immediately,4,34,1,fake
+Product is reliable and worth the money,3,39,29,genuine
+Satisfied with the purchase and delivery was fast,3,49,8,genuine
+Quality is good and durable,3,27,28,genuine
+Super product buy today,4,23,2,fake
+Incredible item must buy right now,5,34,2,fake
+Super product buy today,4,23,1,fake
+Amazing product must buy today,5,30,3,fake
+Highly recommended buy immediately,5,34,1,fake
+Nice design and performance is good,5,35,27,genuine
+Happy with the product overall,5,30,24,genuine
+Nice design and performance is good,4,35,48,genuine
+Works perfectly and build quality is good,3,41,45,genuine
+Incredible item must buy right now,5,34,3,fake
+Works perfectly and build quality is good,3,41,44,genuine
+Very useful and easy to use,3,27,38,genuine
+Best product ever buy now,4,25,2,fake
+Very useful and easy to use,3,27,7,genuine
+Incredible item must buy right now,5,34,3,fake
+Best item grab it quickly,5,25,1,fake
+Good quality product and works as expected,4,42,46,genuine
+Works perfectly and build quality is good,3,41,7,genuine
+Works perfectly and build quality is good,5,41,8,genuine
+Nice design and performance is good,4,35,20,genuine
+Very useful and easy to use,5,27,35,genuine
+Good quality product and works as expected,3,42,31,genuine
+Satisfied with the purchase and delivery was fast,4,49,8,genuine
+Product is reliable and worth the money,3,39,17,genuine
+Happy with the product overall,4,30,36,genuine
+Quality is good and durable,4,27,39,genuine
+Very useful and easy to use,3,27,34,genuine
+Good value for money,3,20,46,genuine
+Top quality product buy now,5,27,1,fake
+Super product buy today,5,23,2,fake
+Decent product for the price,5,28,31,genuine
+Incredible item must buy right now,4,34,3,fake
+Very useful and easy to use,3,27,42,genuine
+Best product ever buy now,4,25,2,fake
+Good value for money,4,20,14,genuine
+Very useful and easy to use,4,27,50,genuine
+Perfect product best online,4,27,2,fake
+Good value for money,4,20,49,genuine
+Good quality product and works as expected,4,42,10,genuine
+Works perfectly and build quality is good,4,41,38,genuine
+Product is reliable and worth the money,3,39,32,genuine
+Very useful and easy to use,5,27,40,genuine
+Good quality product and works as expected,3,42,34,genuine
+Decent product for the price,5,28,14,genuine
+Perfect product best online,5,27,2,fake
+Perfect product best online,4,27,1,fake
+Perfect product best online,4,27,1,fake
+Perfect product best online,4,27,1,fake
+Amazing product must buy today,4,30,3,fake
+Satisfied with the purchase and delivery was fast,5,49,23,genuine
+Good quality product and works as expected,3,42,48,genuine
+Satisfied with the purchase and delivery was fast,5,49,7,genuine
+Top quality product buy now,4,27,1,fake
+Works perfectly and build quality is good,4,41,24,genuine
+Satisfied with the purchase and delivery was fast,5,49,26,genuine
+Satisfied with the purchase and delivery was fast,5,49,38,genuine
+Super product buy today,4,23,3,fake
+Nice design and performance is good,4,35,30,genuine
+Product is reliable and worth the money,3,39,47,genuine
+Perfect product best online,4,27,1,fake
+Top quality product buy now,4,27,3,fake
+Decent product for the price,3,28,19,genuine
+Best product ever buy now,5,25,2,fake
+Best product ever buy now,5,25,3,fake
+Top quality product buy now,4,27,1,fake
+Very useful and easy to use,4,27,9,genuine
+Good quality product and works as expected,5,42,47,genuine
+Best item grab it quickly,4,25,3,fake
+Works perfectly and build quality is good,5,41,32,genuine
+Best product ever buy now,5,25,2,fake
+Good value for money,5,20,48,genuine
+Very useful and easy to use,5,27,33,genuine
+Best item grab it quickly,4,25,1,fake
+Nice design and performance is good,5,35,16,genuine
+Satisfied with the purchase and delivery was fast,5,49,27,genuine
+Best product ever buy now,5,25,3,fake
+Super product buy today,5,23,1,fake
+Best item grab it quickly,5,25,3,fake
+Limited offer buy immediately,5,29,2,fake
+Good quality product and works as expected,3,42,15,genuine
+Nice design and performance is good,3,35,11,genuine
+Product is reliable and worth the money,3,39,36,genuine
+Best deal online hurry buy,4,26,1,fake
+Nice design and performance is good,5,35,29,genuine
+Limited offer buy immediately,5,29,1,fake
+Highly recommended buy immediately,5,34,2,fake
+Best product ever buy now,5,25,3,fake
+Best item grab it quickly,5,25,1,fake
+Perfect product best online,4,27,1,fake
+Best product ever buy now,4,25,1,fake
+Top quality product buy now,4,27,1,fake
+Good quality product and works as expected,5,42,16,genuine
+Good quality product and works as expected,4,42,43,genuine
+Happy with the product overall,5,30,10,genuine
+Top quality product buy now,5,27,2,fake
+Best product ever buy now,5,25,1,fake
+Good value for money,5,20,34,genuine
+Super product buy today,5,23,3,fake
+Good quality product and works as expected,3,42,9,genuine
+Quality is good and durable,5,27,45,genuine
+Product is reliable and worth the money,3,39,12,genuine
+Quality is good and durable,5,27,12,genuine
+Best item grab it quickly,5,25,3,fake
+Good quality product and works as expected,5,42,19,genuine
+Happy with the product overall,5,30,41,genuine
+Best deal online hurry buy,5,26,3,fake
+Decent product for the price,5,28,29,genuine
+Decent product for the price,3,28,15,genuine
+Good value for money,3,20,7,genuine
+Best item grab it quickly,4,25,1,fake
+Best product ever buy now,4,25,3,fake
+Decent product for the price,4,28,45,genuine
+Happy with the product overall,3,30,10,genuine
+Best product ever buy now,5,25,1,fake
+Works perfectly and build quality is good,5,41,44,genuine
+Perfect product best online,4,27,1,fake
+Top quality product buy now,4,27,1,fake
+Highly recommended buy immediately,5,34,3,fake
+Decent product for the price,3,28,43,genuine
+Very useful and easy to use,3,27,38,genuine
+Amazing product must buy today,4,30,3,fake
+Works perfectly and build quality is good,3,41,44,genuine
+Product is reliable and worth the money,4,39,34,genuine
+Satisfied with the purchase and delivery was fast,4,49,26,genuine
+Incredible item must buy right now,5,34,1,fake
+Decent product for the price,3,28,25,genuine
+Good value for money,5,20,30,genuine
+Top quality product buy now,5,27,1,fake
+Best product ever buy now,5,25,2,fake
+Nice design and performance is good,3,35,21,genuine
+Decent product for the price,4,28,46,genuine
+Best deal online hurry buy,5,26,1,fake
+Limited offer buy immediately,4,29,2,fake
+Happy with the product overall,4,30,33,genuine
+Happy with the product overall,5,30,30,genuine
+Top quality product buy now,5,27,3,fake
+Best deal online hurry buy,4,26,2,fake
+Good quality product and works as expected,4,42,29,genuine
+Quality is good and durable,3,27,34,genuine
+Very useful and easy to use,4,27,45,genuine
+Works perfectly and build quality is good,4,41,33,genuine
+Product is reliable and worth the money,3,39,10,genuine
+Top quality product buy now,4,27,2,fake
+Satisfied with the purchase and delivery was fast,5,49,42,genuine
+Amazing product must buy today,5,30,1,fake
+Very useful and easy to use,5,27,20,genuine
+Limited offer buy immediately,4,29,3,fake
+Best product ever buy now,5,25,1,fake
+Best product ever buy now,4,25,3,fake
+Decent product for the price,5,28,40,genuine
+Quality is good and durable,4,27,15,genuine
+Super product buy today,4,23,3,fake
+Satisfied with the purchase and delivery was fast,5,49,38,genuine
+Very useful and easy to use,3,27,47,genuine
+Best product ever buy now,5,25,2,fake
+Super product buy today,4,23,3,fake
+Works perfectly and build quality is good,4,41,9,genuine
+Amazing product must buy today,4,30,2,fake
+Incredible item must buy right now,4,34,1,fake
+Top quality product buy now,4,27,2,fake
+Incredible item must buy right now,4,34,2,fake
+Good value for money,4,20,33,genuine
+Perfect product best online,5,27,2,fake
+Best product ever buy now,5,25,1,fake
+Limited offer buy immediately,4,29,1,fake
+Decent product for the price,3,28,7,genuine
+Works perfectly and build quality is good,5,41,37,genuine
+Incredible item must buy right now,5,34,1,fake
+Works perfectly and build quality is good,3,41,11,genuine
+Decent product for the price,5,28,46,genuine
+Decent product for the price,5,28,21,genuine
+Decent product for the price,3,28,41,genuine
+Best item grab it quickly,4,25,1,fake
+Very useful and easy to use,5,27,22,genuine
+Amazing product must buy today,5,30,2,fake
+Incredible item must buy right now,4,34,3,fake
+Limited offer buy immediately,5,29,2,fake
+Satisfied with the purchase and delivery was fast,5,49,15,genuine
+Highly recommended buy immediately,5,34,1,fake
+Best product ever buy now,4,25,2,fake
+Top quality product buy now,5,27,1,fake
+Highly recommended buy immediately,5,34,1,fake
+Best item grab it quickly,4,25,3,fake
+Top quality product buy now,4,27,1,fake
+Top quality product buy now,4,27,3,fake
+Best item grab it quickly,4,25,1,fake
+Quality is good and durable,3,27,43,genuine
+Top quality product buy now,5,27,2,fake
+Decent product for the price,5,28,45,genuine
+Incredible item must buy right now,4,34,3,fake
+Amazing product must buy today,5,30,1,fake
+Nice design and performance is good,3,35,13,genuine
+Good value for money,3,20,42,genuine
+Works perfectly and build quality is good,3,41,13,genuine
+Limited offer buy immediately,5,29,3,fake
+Best item grab it quickly,5,25,2,fake
+Super product buy today,5,23,1,fake
+Very useful and easy to use,5,27,5,genuine
+Satisfied with the purchase and delivery was fast,5,49,44,genuine
+Highly recommended buy immediately,5,34,1,fake
+Perfect product best online,4,27,2,fake
+Super product buy today,4,23,1,fake
+Decent product for the price,3,28,35,genuine
+Happy with the product overall,3,30,38,genuine
+Decent product for the price,4,28,5,genuine
+Good value for money,3,20,11,genuine
+Amazing product must buy today,4,30,2,fake
+Quality is good and durable,3,27,23,genuine
+Best item grab it quickly,4,25,3,fake
+Very useful and easy to use,4,27,29,genuine
+Very useful and easy to use,3,27,31,genuine
+Incredible item must buy right now,4,34,1,fake
+Perfect product best online,5,27,1,fake
+Highly recommended buy immediately,4,34,2,fake
+Best deal online hurry buy,4,26,1,fake
+Super product buy today,4,23,2,fake
+Decent product for the price,3,28,21,genuine
+Incredible item must buy right now,5,34,2,fake
+Amazing product must buy today,4,30,1,fake
+Super product buy today,4,23,1,fake
+Works perfectly and build quality is good,5,41,16,genuine
+Super product buy today,5,23,2,fake
+Good value for money,3,20,45,genuine
+Highly recommended buy immediately,4,34,1,fake
+Good value for money,5,20,6,genuine
+Good quality product and works as expected,4,42,12,genuine
+Limited offer buy immediately,4,29,3,fake
+Happy with the product overall,5,30,16,genuine
+Product is reliable and worth the money,4,39,15,genuine
+Good value for money,5,20,8,genuine
+Best item grab it quickly,4,25,3,fake
+Top quality product buy now,4,27,1,fake
+Best item grab it quickly,5,25,2,fake
+Limited offer buy immediately,4,29,1,fake
+Best item grab it quickly,5,25,3,fake
+Best deal online hurry buy,5,26,2,fake
+Happy with the product overall,5,30,46,genuine
+Satisfied with the purchase and delivery was fast,5,49,21,genuine
+Highly recommended buy immediately,5,34,1,fake
+Quality is good and durable,4,27,12,genuine
+Best product ever buy now,4,25,2,fake
+Good value for money,3,20,30,genuine
+Product is reliable and worth the money,4,39,38,genuine
+Satisfied with the purchase and delivery was fast,3,49,45,genuine
+Very useful and easy to use,4,27,29,genuine
+Good value for money,4,20,18,genuine
+Super product buy today,5,23,1,fake
+Decent product for the price,4,28,34,genuine
+Super product buy today,5,23,1,fake
+Incredible item must buy right now,5,34,2,fake
+Perfect product best online,5,27,3,fake
+Best deal online hurry buy,5,26,1,fake
+Good value for money,3,20,46,genuine
+Quality is good and durable,5,27,32,genuine
+Best deal online hurry buy,4,26,3,fake
+Works perfectly and build quality is good,4,41,27,genuine
+Best item grab it quickly,4,25,1,fake
+Super product buy today,4,23,2,fake
+Perfect product best online,5,27,2,fake
+Decent product for the price,5,28,20,genuine
+Best deal online hurry buy,5,26,1,fake
+Very useful and easy to use,5,27,43,genuine
+Product is reliable and worth the money,4,39,22,genuine
+Very useful and easy to use,5,27,11,genuine
+Good value for money,5,20,33,genuine
+Very useful and easy to use,3,27,35,genuine
+Best product ever buy now,4,25,3,fake
+Incredible item must buy right now,5,34,2,fake
+Works perfectly and build quality is good,4,41,40,genuine
+Happy with the product overall,4,30,17,genuine
+Super product buy today,4,23,3,fake
+Product is reliable and worth the money,5,39,10,genuine
+Best item grab it quickly,5,25,2,fake
+Super product buy today,5,23,1,fake
+Happy with the product overall,4,30,49,genuine
+Best deal online hurry buy,4,26,2,fake
+Good value for money,3,20,33,genuine
+Best product ever buy now,4,25,1,fake
+Limited offer buy immediately,4,29,2,fake
+Very useful and easy to use,4,27,11,genuine
+Highly recommended buy immediately,4,34,1,fake
+Top quality product buy now,5,27,3,fake
+Highly recommended buy immediately,5,34,3,fake
+Works perfectly and build quality is good,4,41,30,genuine
+Product is reliable and worth the money,3,39,6,genuine
+Works perfectly and build quality is good,5,41,16,genuine
+Product is reliable and worth the money,5,39,15,genuine
+Quality is good and durable,4,27,6,genuine
+Perfect product best online,4,27,1,fake
+Product is reliable and worth the money,4,39,48,genuine
+Decent product for the price,5,28,32,genuine
+Product is reliable and worth the money,5,39,9,genuine
+Satisfied with the purchase and delivery was fast,3,49,15,genuine
+Best product ever buy now,5,25,2,fake
+Good quality product and works as expected,3,42,45,genuine
+Best deal online hurry buy,5,26,1,fake
+Best product ever buy now,5,25,1,fake
+Incredible item must buy right now,5,34,2,fake
+Product is reliable and worth the money,3,39,13,genuine
+Good quality product and works as expected,4,42,25,genuine
+Quality is good and durable,3,27,12,genuine
+Top quality product buy now,4,27,3,fake
+Best product ever buy now,4,25,2,fake
+Happy with the product overall,4,30,33,genuine
+Perfect product best online,4,27,3,fake
+Very useful and easy to use,5,27,17,genuine
+Good quality product and works as expected,3,42,23,genuine
+Best item grab it quickly,4,25,3,fake
+Works perfectly and build quality is good,3,41,23,genuine
+Best item grab it quickly,4,25,1,fake
+Satisfied with the purchase and delivery was fast,5,49,47,genuine
+Best item grab it quickly,5,25,3,fake
+Good value for money,4,20,11,genuine
+Super product buy today,4,23,1,fake
+Good quality product and works as expected,3,42,27,genuine
+Product is reliable and worth the money,5,39,42,genuine
+Limited offer buy immediately,5,29,1,fake
+Decent product for the price,3,28,5,genuine
+Best item grab it quickly,4,25,1,fake
+Super product buy today,5,23,1,fake
+Highly recommended buy immediately,5,34,2,fake
+Good quality product and works as expected,3,42,18,genuine
+Nice design and performance is good,4,35,30,genuine
+Limited offer buy immediately,4,29,2,fake
+Super product buy today,5,23,3,fake
+Highly recommended buy immediately,5,34,2,fake
+Very useful and easy to use,3,27,6,genuine
+Good value for money,4,20,8,genuine
+Decent product for the price,3,28,46,genuine
+Good quality product and works as expected,5,42,27,genuine
+Good value for money,3,20,6,genuine
+Highly recommended buy immediately,4,34,2,fake
+Product is reliable and worth the money,5,39,49,genuine
+Best deal online hurry buy,5,26,1,fake
+Best item grab it quickly,5,25,3,fake
+Amazing product must buy today,4,30,3,fake
+Happy with the product overall,3,30,48,genuine
+Top quality product buy now,5,27,3,fake
+Best item grab it quickly,5,25,3,fake
+Incredible item must buy right now,5,34,2,fake
+Very useful and easy to use,5,27,25,genuine
+Decent product for the price,3,28,40,genuine
+Happy with the product overall,3,30,13,genuine
+Super product buy today,4,23,2,fake
+Happy with the product overall,5,30,28,genuine
+Decent product for the price,3,28,22,genuine
+Nice design and performance is good,5,35,11,genuine
+Perfect product best online,5,27,2,fake
+Nice design and performance is good,3,35,26,genuine
+Best product ever buy now,4,25,3,fake
+Good value for money,3,20,16,genuine
+Satisfied with the purchase and delivery was fast,3,49,21,genuine
+Best product ever buy now,5,25,3,fake
+Super product buy today,5,23,1,fake
+Best product ever buy now,4,25,1,fake
+Best item grab it quickly,5,25,1,fake
+Very useful and easy to use,4,27,12,genuine
+Quality is good and durable,5,27,12,genuine
+Product is reliable and worth the money,5,39,42,genuine
+Happy with the product overall,3,30,7,genuine
+Very useful and easy to use,3,27,10,genuine
+Highly recommended buy immediately,5,34,2,fake
+Nice design and performance is good,4,35,6,genuine
+Good quality product and works as expected,3,42,15,genuine
+Highly recommended buy immediately,5,34,3,fake
+Decent product for the price,3,28,38,genuine
+Works perfectly and build quality is good,5,41,9,genuine
+Quality is good and durable,4,27,10,genuine
+Happy with the product overall,4,30,50,genuine
+Best deal online hurry buy,4,26,1,fake
+Decent product for the price,5,28,18,genuine
+Quality is good and durable,4,27,7,genuine
+Satisfied with the purchase and delivery was fast,3,49,9,genuine
+Super product buy today,5,23,1,fake
+Good quality product and works as expected,5,42,23,genuine
+Best deal online hurry buy,5,26,3,fake
+Best deal online hurry buy,5,26,1,fake
+Good quality product and works as expected,4,42,49,genuine
+Perfect product best online,4,27,3,fake
+Happy with the product overall,5,30,48,genuine
+Best item grab it quickly,5,25,3,fake
+Very useful and easy to use,3,27,20,genuine
+Super product buy today,5,23,1,fake
+Super product buy today,5,23,3,fake
+Happy with the product overall,3,30,7,genuine
+Best item grab it quickly,4,25,1,fake
+Amazing product must buy today,4,30,2,fake
+Very useful and easy to use,4,27,7,genuine
+Product is reliable and worth the money,4,39,29,genuine
+Decent product for the price,3,28,42,genuine
+Top quality product buy now,5,27,3,fake
+Nice design and performance is good,4,35,9,genuine
+Works perfectly and build quality is good,3,41,13,genuine
+Perfect product best online,4,27,2,fake
+Top quality product buy now,5,27,3,fake
+Best item grab it quickly,4,25,3,fake
+Best item grab it quickly,5,25,2,fake
+Amazing product must buy today,4,30,3,fake
+Limited offer buy immediately,4,29,3,fake
+Good quality product and works as expected,4,42,46,genuine
+Satisfied with the purchase and delivery was fast,3,49,37,genuine
+Amazing product must buy today,4,30,3,fake
+Nice design and performance is good,5,35,29,genuine
+Incredible item must buy right now,5,34,3,fake
+Best deal online hurry buy,5,26,1,fake
+Highly recommended buy immediately,5,34,2,fake
+Good quality product and works as expected,5,42,15,genuine
+Very useful and easy to use,4,27,11,genuine
+Happy with the product overall,5,30,21,genuine
+Good value for money,5,20,14,genuine
+Best deal online hurry buy,4,26,1,fake
+Amazing product must buy today,5,30,3,fake
+Best deal online hurry buy,5,26,3,fake
+Best product ever buy now,4,25,3,fake
+Happy with the product overall,3,30,24,genuine
+Amazing product must buy today,4,30,1,fake
+Happy with the product overall,4,30,22,genuine
+Good value for money,3,20,33,genuine
+Highly recommended buy immediately,4,34,1,fake
+Best deal online hurry buy,5,26,3,fake
+Perfect product best online,5,27,3,fake
+Very useful and easy to use,4,27,41,genuine
+Quality is good and durable,3,27,5,genuine
+Quality is good and durable,5,27,50,genuine
+Product is reliable and worth the money,3,39,14,genuine
+Best product ever buy now,5,25,1,fake
+Satisfied with the purchase and delivery was fast,5,49,13,genuine
+Best deal online hurry buy,5,26,3,fake
+Good value for money,3,20,18,genuine
+Satisfied with the purchase and delivery was fast,5,49,37,genuine
+Highly recommended buy immediately,5,34,1,fake
+Nice design and performance is good,3,35,34,genuine
+Incredible item must buy right now,5,34,1,fake
+Nice design and performance is good,4,35,18,genuine
+Super product buy today,5,23,1,fake
+Product is reliable and worth the money,3,39,42,genuine
+Nice design and performance is good,4,35,44,genuine
+Highly recommended buy immediately,4,34,2,fake
+Quality is good and durable,3,27,45,genuine
+Very useful and easy to use,3,27,37,genuine
+Works perfectly and build quality is good,3,41,44,genuine
+Works perfectly and build quality is good,3,41,33,genuine
+Limited offer buy immediately,4,29,3,fake
+Best item grab it quickly,4,25,2,fake
+Good value for money,4,20,37,genuine
+Best deal online hurry buy,5,26,2,fake
+Super product buy today,4,23,3,fake
+Incredible item must buy right now,5,34,3,fake
+Super product buy today,5,23,3,fake
+Limited offer buy immediately,5,29,3,fake
+Incredible item must buy right now,5,34,2,fake
+Decent product for the price,4,28,31,genuine
+Perfect product best online,4,27,2,fake
+Nice design and performance is good,4,35,44,genuine
+Works perfectly and build quality is good,3,41,17,genuine
+Works perfectly and build quality is good,5,41,26,genuine
+Super product buy today,5,23,3,fake
+Amazing product must buy today,5,30,3,fake
+Good value for money,5,20,18,genuine
+Product is reliable and worth the money,5,39,29,genuine
+Quality is good and durable,4,27,30,genuine
+Super product buy today,5,23,1,fake
+Incredible item must buy right now,5,34,2,fake
+Best item grab it quickly,4,25,1,fake
+Best deal online hurry buy,5,26,2,fake
+Top quality product buy now,4,27,2,fake
+Good value for money,3,20,34,genuine
+Decent product for the price,3,28,46,genuine
+Very useful and easy to use,5,27,18,genuine
+Product is reliable and worth the money,5,39,10,genuine
+Top quality product buy now,5,27,2,fake
+Satisfied with the purchase and delivery was fast,3,49,27,genuine
+Decent product for the price,4,28,41,genuine
+Top quality product buy now,4,27,1,fake
+Good quality product and works as expected,4,42,40,genuine
+Nice design and performance is good,4,35,37,genuine
+Decent product for the price,3,28,29,genuine
+Works perfectly and build quality is good,4,41,33,genuine
+Product is reliable and worth the money,5,39,36,genuine
+Perfect product best online,5,27,3,fake
+Highly recommended buy immediately,5,34,1,fake
+Happy with the product overall,4,30,27,genuine
+Best deal online hurry buy,5,26,1,fake
+Highly recommended buy immediately,4,34,1,fake
+Limited offer buy immediately,5,29,2,fake
+Satisfied with the purchase and delivery was fast,4,49,25,genuine
+Top quality product buy now,4,27,2,fake
+Product is reliable and worth the money,4,39,23,genuine
+Satisfied with the purchase and delivery was fast,4,49,14,genuine
+Super product buy today,5,23,2,fake
+Happy with the product overall,5,30,24,genuine
+Best item grab it quickly,4,25,2,fake
+Best item grab it quickly,5,25,2,fake
+Super product buy today,4,23,1,fake
+Amazing product must buy today,4,30,1,fake
+Decent product for the price,3,28,26,genuine
+Best product ever buy now,5,25,1,fake
+Perfect product best online,4,27,2,fake
+Satisfied with the purchase and delivery was fast,4,49,5,genuine
+Limited offer buy immediately,5,29,3,fake
+Quality is good and durable,5,27,17,genuine
+Top quality product buy now,5,27,3,fake
+Satisfied with the purchase and delivery was fast,5,49,24,genuine
+Works perfectly and build quality is good,3,41,43,genuine
+Good quality product and works as expected,4,42,38,genuine
+Very useful and easy to use,5,27,5,genuine
+Super product buy today,5,23,1,fake
+Perfect product best online,4,27,2,fake
+Best deal online hurry buy,4,26,1,fake
+Quality is good and durable,4,27,50,genuine
+Satisfied with the purchase and delivery was fast,4,49,48,genuine
+Good value for money,4,20,32,genuine
+Nice design and performance is good,5,35,13,genuine
+Decent product for the price,5,28,6,genuine
+Highly recommended buy immediately,5,34,1,fake
+Nice design and performance is good,3,35,46,genuine
+Super product buy today,5,23,1,fake
+Limited offer buy immediately,5,29,1,fake
+Top quality product buy now,4,27,1,fake
+Limited offer buy immediately,5,29,2,fake
+Limited offer buy immediately,5,29,2,fake
+Product is reliable and worth the money,4,39,5,genuine
+Works perfectly and build quality is good,3,41,30,genuine
+Decent product for the price,4,28,27,genuine
+Good quality product and works as expected,4,42,8,genuine
+Super product buy today,4,23,2,fake
+Super product buy today,5,23,3,fake
+Highly recommended buy immediately,5,34,2,fake
+Top quality product buy now,4,27,3,fake
+Decent product for the price,4,28,11,genuine
+Incredible item must buy right now,4,34,3,fake
+Nice design and performance is good,5,35,32,genuine
+Nice design and performance is good,3,35,35,genuine
+Highly recommended buy immediately,4,34,1,fake
+Product is reliable and worth the money,5,39,27,genuine
+Decent product for the price,5,28,39,genuine
+Best item grab it quickly,4,25,1,fake
+Product is reliable and worth the money,5,39,27,genuine
+Very useful and easy to use,3,27,17,genuine
+Incredible item must buy right now,4,34,3,fake
+Highly recommended buy immediately,4,34,2,fake
+Best product ever buy now,5,25,3,fake
+Good value for money,3,20,7,genuine
+Amazing product must buy today,5,30,3,fake
+Works perfectly and build quality is good,4,41,30,genuine
+Best item grab it quickly,4,25,3,fake
+Best product ever buy now,4,25,2,fake
+Limited offer buy immediately,4,29,3,fake
+Satisfied with the purchase and delivery was fast,4,49,45,genuine
+Works perfectly and build quality is good,3,41,7,genuine
+Best deal online hurry buy,4,26,3,fake
+Best deal online hurry buy,4,26,3,fake
+Highly recommended buy immediately,5,34,2,fake
+Good quality product and works as expected,5,42,36,genuine
+Best deal online hurry buy,4,26,1,fake
+Best deal online hurry buy,5,26,3,fake
+Best deal online hurry buy,4,26,3,fake
+Perfect product best online,4,27,1,fake
+Best product ever buy now,5,25,1,fake
+Very useful and easy to use,5,27,10,genuine
+Works perfectly and build quality is good,4,41,16,genuine
+Best product ever buy now,5,25,2,fake
+Works perfectly and build quality is good,3,41,34,genuine
+Top quality product buy now,4,27,2,fake
+Nice design and performance is good,5,35,19,genuine
+Product is reliable and worth the money,3,39,5,genuine
+Amazing product must buy today,4,30,3,fake
+Best deal online hurry buy,4,26,1,fake
+Incredible item must buy right now,4,34,1,fake
+Decent product for the price,4,28,30,genuine
+Super product buy today,5,23,2,fake
+Best product ever buy now,5,25,2,fake
+Works perfectly and build quality is good,5,41,48,genuine
+Good quality product and works as expected,5,42,24,genuine
+Top quality product buy now,5,27,3,fake
+Happy with the product overall,3,30,8,genuine
+Satisfied with the purchase and delivery was fast,5,49,18,genuine
+Very useful and easy to use,4,27,7,genuine
+Satisfied with the purchase and delivery was fast,3,49,48,genuine
+Works perfectly and build quality is good,3,41,49,genuine
+Super product buy today,4,23,3,fake
+Best deal online hurry buy,5,26,3,fake
+Works perfectly and build quality is good,5,41,17,genuine
+Best item grab it quickly,5,25,3,fake
+Super product buy today,5,23,2,fake
+Incredible item must buy right now,5,34,1,fake
+Top quality product buy now,5,27,1,fake
+Highly recommended buy immediately,5,34,2,fake
+Highly recommended buy immediately,5,34,3,fake
+Super product buy today,4,23,2,fake
+Limited offer buy immediately,5,29,1,fake
+Decent product for the price,3,28,22,genuine
+Perfect product best online,5,27,3,fake
+Incredible item must buy right now,5,34,3,fake
+Highly recommended buy immediately,4,34,3,fake
+Top quality product buy now,5,27,3,fake
+Works perfectly and build quality is good,5,41,37,genuine
+Top quality product buy now,5,27,1,fake
+Best deal online hurry buy,5,26,3,fake
+Best deal online hurry buy,5,26,3,fake
+Works perfectly and build quality is good,4,41,23,genuine
+Decent product for the price,4,28,21,genuine
+Super product buy today,5,23,1,fake
+Top quality product buy now,5,27,1,fake
+Quality is good and durable,4,27,45,genuine
+Best product ever buy now,4,25,2,fake
+Works perfectly and build quality is good,4,41,47,genuine
+Incredible item must buy right now,4,34,2,fake
+Amazing product must buy today,4,30,2,fake
+Quality is good and durable,3,27,26,genuine
+Perfect product best online,4,27,2,fake
+Good quality product and works as expected,3,42,31,genuine
+Satisfied with the purchase and delivery was fast,5,49,20,genuine
+Quality is good and durable,5,27,45,genuine
+Good quality product and works as expected,4,42,47,genuine
+Good quality product and works as expected,3,42,42,genuine
+Nice design and performance is good,5,35,5,genuine
+Nice design and performance is good,5,35,40,genuine
+Best item grab it quickly,5,25,2,fake
+Highly recommended buy immediately,4,34,2,fake
+Good value for money,3,20,21,genuine
+Super product buy today,5,23,1,fake
+Super product buy today,4,23,1,fake
+Best product ever buy now,5,25,1,fake
+Best deal online hurry buy,4,26,3,fake
+Decent product for the price,4,28,31,genuine
+Limited offer buy immediately,4,29,1,fake
+Very useful and easy to use,3,27,50,genuine
+Very useful and easy to use,5,27,41,genuine
+Product is reliable and worth the money,4,39,22,genuine
+Amazing product must buy today,5,30,3,fake
+Top quality product buy now,4,27,3,fake
+Top quality product buy now,4,27,2,fake
+Good value for money,5,20,13,genuine
+Product is reliable and worth the money,4,39,43,genuine
+Works perfectly and build quality is good,3,41,22,genuine
+Perfect product best online,4,27,2,fake
+Good value for money,5,20,9,genuine
+Nice design and performance is good,3,35,30,genuine
+Nice design and performance is good,5,35,47,genuine
+Best item grab it quickly,5,25,2,fake
+Highly recommended buy immediately,5,34,2,fake
+Happy with the product overall,3,30,6,genuine
+Top quality product buy now,5,27,2,fake
+Perfect product best online,4,27,2,fake
+Perfect product best online,4,27,1,fake
+Works perfectly and build quality is good,4,41,6,genuine
+Nice design and performance is good,5,35,22,genuine
+Highly recommended buy immediately,5,34,2,fake
+Incredible item must buy right now,5,34,3,fake
+Decent product for the price,3,28,40,genuine
+Perfect product best online,5,27,1,fake
+Product is reliable and worth the money,3,39,30,genuine
+Good quality product and works as expected,5,42,12,genuine
+Works perfectly and build quality is good,3,41,8,genuine
+Best item grab it quickly,4,25,2,fake
+Incredible item must buy right now,5,34,1,fake
+Product is reliable and worth the money,3,39,12,genuine
+Limited offer buy immediately,5,29,1,fake
+Good quality product and works as expected,4,42,23,genuine
+Best deal online hurry buy,4,26,3,fake
+Incredible item must buy right now,4,34,2,fake
+Decent product for the price,5,28,7,genuine
+Nice design and performance is good,5,35,9,genuine
+Quality is good and durable,5,27,11,genuine
+Good value for money,5,20,21,genuine
+Good quality product and works as expected,3,42,10,genuine
+Best product ever buy now,5,25,3,fake
+Best item grab it quickly,4,25,1,fake
+Super product buy today,5,23,3,fake
+Amazing product must buy today,5,30,1,fake
+Top quality product buy now,4,27,3,fake
+Happy with the product overall,4,30,7,genuine
+Super product buy today,5,23,2,fake
+Super product buy today,4,23,3,fake
+Best item grab it quickly,5,25,1,fake
+Amazing product must buy today,4,30,3,fake
+Top quality product buy now,5,27,1,fake
+Happy with the product overall,3,30,25,genuine
+Product is reliable and worth the money,5,39,18,genuine
+Limited offer buy immediately,5,29,3,fake
+Decent product for the price,5,28,33,genuine
+Very useful and easy to use,3,27,30,genuine
+Quality is good and durable,5,27,6,genuine
+Very useful and easy to use,3,27,49,genuine
+Limited offer buy immediately,4,29,3,fake
+Satisfied with the purchase and delivery was fast,3,49,10,genuine
+Best product ever buy now,4,25,1,fake
+Product is reliable and worth the money,5,39,11,genuine
+Good quality product and works as expected,4,42,26,genuine
+Good quality product and works as expected,3,42,41,genuine
+Limited offer buy immediately,5,29,2,fake
+Very useful and easy to use,4,27,9,genuine
+Quality is good and durable,5,27,50,genuine
+Good quality product and works as expected,3,42,5,genuine
+Highly recommended buy immediately,4,34,2,fake
+Top quality product buy now,5,27,1,fake
+Best product ever buy now,5,25,1,fake
+Decent product for the price,5,28,19,genuine
+Best item grab it quickly,4,25,3,fake
+Super product buy today,4,23,2,fake
+Best item grab it quickly,5,25,2,fake
+Super product buy today,5,23,2,fake
+Product is reliable and worth the money,5,39,38,genuine
+Product is reliable and worth the money,3,39,25,genuine
+Highly recommended buy immediately,4,34,1,fake
+Best deal online hurry buy,5,26,1,fake
+Limited offer buy immediately,5,29,1,fake
+Happy with the product overall,4,30,35,genuine
+Quality is good and durable,3,27,12,genuine
+Highly recommended buy immediately,4,34,2,fake
+Decent product for the price,5,28,30,genuine
+Limited offer buy immediately,5,29,2,fake
+Works perfectly and build quality is good,3,41,14,genuine
+Satisfied with the purchase and delivery was fast,4,49,46,genuine
+Product is reliable and worth the money,5,39,9,genuine
+Product is reliable and worth the money,4,39,13,genuine
+Super product buy today,4,23,1,fake
+Quality is good and durable,4,27,19,genuine
+Best item grab it quickly,4,25,1,fake
+Satisfied with the purchase and delivery was fast,3,49,40,genuine
+Good quality product and works as expected,4,42,47,genuine
+Best product ever buy now,4,25,3,fake
+Quality is good and durable,3,27,30,genuine
+Incredible item must buy right now,4,34,2,fake
+Decent product for the price,5,28,24,genuine
+Product is reliable and worth the money,4,39,30,genuine
+Good quality product and works as expected,4,42,27,genuine
+Perfect product best online,4,27,3,fake
+Good value for money,4,20,30,genuine
+Decent product for the price,5,28,49,genuine
+Top quality product buy now,5,27,2,fake
+Amazing product must buy today,5,30,1,fake
+Product is reliable and worth the money,3,39,10,genuine
+Limited offer buy immediately,4,29,1,fake
+Good quality product and works as expected,4,42,26,genuine
+Happy with the product overall,3,30,19,genuine
+Very useful and easy to use,5,27,9,genuine
+Best product ever buy now,4,25,1,fake
+Satisfied with the purchase and delivery was fast,4,49,29,genuine
+Amazing product must buy today,4,30,1,fake
+Super product buy today,5,23,3,fake
+Best deal online hurry buy,5,26,1,fake
+Best item grab it quickly,5,25,2,fake
+Highly recommended buy immediately,5,34,2,fake
+Best deal online hurry buy,5,26,1,fake
+Best item grab it quickly,4,25,3,fake
+Best item grab it quickly,5,25,3,fake
+Happy with the product overall,5,30,24,genuine
+Highly recommended buy immediately,4,34,3,fake
+Limited offer buy immediately,4,29,1,fake
+Perfect product best online,4,27,2,fake
+Best deal online hurry buy,5,26,2,fake
+Top quality product buy now,5,27,3,fake
+Good quality product and works as expected,5,42,15,genuine
+Satisfied with the purchase and delivery was fast,4,49,47,genuine
+Highly recommended buy immediately,5,34,2,fake
+Works perfectly and build quality is good,5,41,8,genuine
+Decent product for the price,5,28,7,genuine
+Satisfied with the purchase and delivery was fast,5,49,24,genuine
+Best item grab it quickly,5,25,1,fake
+Decent product for the price,5,28,44,genuine
+Best item grab it quickly,4,25,1,fake
+Perfect product best online,4,27,2,fake
+Best deal online hurry buy,5,26,3,fake
+Incredible item must buy right now,5,34,1,fake
+Best item grab it quickly,5,25,1,fake
+Top quality product buy now,4,27,1,fake
+Amazing product must buy today,5,30,3,fake
+Perfect product best online,5,27,2,fake
+Amazing product must buy today,5,30,3,fake
+Best product ever buy now,4,25,1,fake
+Limited offer buy immediately,4,29,1,fake
+Limited offer buy immediately,5,29,2,fake
+Top quality product buy now,4,27,3,fake
+Best item grab it quickly,4,25,2,fake
+Product is reliable and worth the money,4,39,50,genuine
+Best product ever buy now,4,25,1,fake
+Best item grab it quickly,4,25,3,fake
+Perfect product best online,5,27,2,fake
+Good value for money,4,20,26,genuine
+Product is reliable and worth the money,4,39,5,genuine
+Product is reliable and worth the money,3,39,41,genuine
+Good quality product and works as expected,5,42,45,genuine
+Nice design and performance is good,3,35,9,genuine
+Happy with the product overall,4,30,48,genuine
+Quality is good and durable,5,27,8,genuine
+Decent product for the price,4,28,22,genuine
+Incredible item must buy right now,5,34,3,fake
+Decent product for the price,4,28,33,genuine
+Incredible item must buy right now,5,34,3,fake
+Happy with the product overall,4,30,19,genuine
+Decent product for the price,4,28,11,genuine
+Amazing product must buy today,4,30,1,fake
+Best item grab it quickly,4,25,1,fake
+Best deal online hurry buy,5,26,2,fake
+Good value for money,3,20,16,genuine
+Very useful and easy to use,5,27,29,genuine
+Best item grab it quickly,5,25,3,fake
