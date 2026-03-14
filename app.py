@@ -60,10 +60,7 @@ with col2:
     st.metric("Fake Reviews", fake)
     st.metric("Genuine Reviews", genuine)
 
-    fig, ax = plt.subplots()
-    ax.bar(["Fake","Genuine"],[fake,genuine], color=['red','green'])
-    ax.set_title("Dataset Distribution")
-    st.pyplot(fig)
+  
 
 st.divider()
 
