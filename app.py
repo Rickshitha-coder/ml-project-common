@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import pytesseract
-from PIL import Image
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
@@ -60,24 +58,12 @@ with col2:
     st.metric("Fake Reviews", fake)
     st.metric("Genuine Reviews", genuine)
 
-  
+    fig, ax = plt.subplots()
+    ax.bar(["Fake","Genuine"],[fake,genuine], color=['red','green'])
+    ax.set_title("Dataset Distribution")
+    st.pyplot(fig)
 
 st.divider()
-
-# -----------------------
-# Screenshot Upload
-# -----------------------
-st.subheader("📷 Upload Review Screenshot")
-
-uploaded_file = st.file_uploader("Upload an image of a review", type=["png","jpg","jpeg"])
-
-if uploaded_file:
-    image = Image.open(uploaded_file)
-    st.image(image, caption="Uploaded Screenshot")
-    extracted_text = pytesseract.image_to_string(image)
-    st.write("Extracted Review Text:")
-    st.info(extracted_text)
-    review = extracted_text
 
 # -----------------------
 # Prediction
