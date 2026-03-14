@@ -1,13 +1,27 @@
 import streamlit as st
 import pandas as pd
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
-# Title
-st.title("🕵️ Fake Product Review Detector")
+# Page config
+st.set_page_config(page_title="Fake Review Detector", page_icon="🛒", layout="wide")
 
-st.write("This app detects whether a product review is **Fake or Genuine**.")
+# Header
+st.markdown("""
+# 🛒 E-Commerce Fake Review Detection System
+Check whether a product review is **Genuine or Fake** using Machine Learning.
+""")
+
+st.divider()
+
+# Sidebar (E-commerce style menu)
+st.sidebar.title("🛍️ User Panel")
+st.sidebar.write("Review Analysis Tool")
+
+st.sidebar.info("""
+Use this tool to verify whether a product review is **authentic or fake**.
+Useful for **online shoppers and sellers**.
+""")
 
 # Load dataset
 data = pd.read_csv("fake_reviews_dataset_1000.csv")
@@ -16,7 +30,7 @@ data = pd.read_csv("fake_reviews_dataset_1000.csv")
 X = data["review_text"]
 y = data["label"]
 
-# Convert text to numbers
+# Text vectorization
 vectorizer = TfidfVectorizer()
 X_vec = vectorizer.fit_transform(X)
 
@@ -24,17 +38,54 @@ X_vec = vectorizer.fit_transform(X)
 model = LogisticRegression()
 model.fit(X_vec, y)
 
-st.success("Model trained successfully!")
+st.success("✔ Machine Learning Model Ready")
 
-# User input
-review = st.text_area("Enter a product review")
+# Layout columns
+col1, col2 = st.columns([2,1])
 
-if st.button("Predict"):
+with col1:
+    st.subheader("✍️ Write a Product Review")
 
-    review_vec = vectorizer.transform([review])
-    prediction = model.predict(review_vec)
+    review = st.text_area(
+        "Enter your review here",
+        placeholder="Example: This product quality is amazing and worth the money..."
+    )
 
-    if prediction[0] == "fake":
-        st.error("⚠️ This review looks FAKE")
+    predict_button = st.button("🔍 Check Review Authenticity")
+
+with col2:
+    st.subheader("📊 Review Statistics")
+
+    st.metric("Total Reviews in Dataset", len(data))
+    st.metric("Fake Reviews", len(data[data['label']=="fake"]))
+    st.metric("Genuine Reviews", len(data[data['label']=="genuine"]))
+
+st.divider()
+
+# Prediction
+if predict_button:
+
+    if review.strip() == "":
+        st.warning("⚠ Please enter a review first.")
     else:
-        st.success("✅ This review looks GENUINE")
+
+        review_vec = vectorizer.transform([review])
+        prediction = model.predict(review_vec)
+
+        st.subheader("🧠 Prediction Result")
+
+        if prediction[0] == "fake":
+            st.error("⚠ This review appears to be **FAKE**.")
+        else:
+            st.success("✅ This review appears to be **GENUINE**.")
+
+# Footer
+st.divider()
+
+st.markdown("""
+### ℹ About This Project
+This application uses **Machine Learning and Natural Language Processing** to detect fake product reviews.  
+Algorithm used: **Logistic Regression + TF-IDF Text Vectorization**
+
+Developed using **Python, Streamlit, and Scikit-Learn**.
+""")
